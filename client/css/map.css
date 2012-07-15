@@ -1,0 +1,40 @@
+#directionsLink:hover {
+	cursor: pointer
+}
+
+.alignRight {
+	text-align:right;
+}
+
+.info:hover {
+	background-color: rgba(100,100,255,1);
+	color: rgba(255,255,255,1);
+	cursor: pointer;
+}
+
+#recording {
+	width: 100px;
+	position: absolute;
+	top: 25px;
+	right: 60px;
+	text-align: center;
+	margin: 0 auto;
+	z-index: 8;
+	background-color:rgba(255,0,0,0.5);
+	color: rgba(255,255,255,1);
+	padding: 2px;
+	visibility: hidden;
+}
+
+#coords {
+	font-family: verdana, arial, sans-serif;
+	font-size: 10px;
+	position: absolute;
+	bottom: 5px;
+	left: 5px;
+	margin: 0 auto;
+	z-index: 8;
+	background-color:rgba(255,255,255,1);
+	color: rgba(0,0,0,1);
+	padding: 2px;
+}
