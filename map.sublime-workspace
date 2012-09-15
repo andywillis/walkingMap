@@ -124,58 +124,10 @@
 	"buffers":
 	[
 		{
-			"file": "client/js/build.js",
+			"file": "index.js",
 			"settings":
 			{
-				"buffer_size": 20025,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "client/js/things.js",
-			"settings":
-			{
-				"buffer_size": 13483,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "client/css/map.css",
-			"settings":
-			{
-				"buffer_size": 640,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "client/js/routes.js",
-			"settings":
-			{
-				"buffer_size": 7671,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "client/js/walks.js",
-			"settings":
-			{
-				"buffer_size": 490,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "server/map.html",
-			"settings":
-			{
-				"buffer_size": 1578,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "client/js/latlon.js",
-			"settings":
-			{
-				"buffer_size": 16196,
+				"buffer_size": 348,
 				"line_ending": "Windows"
 			}
 		}
@@ -208,14 +160,16 @@
 	},
 	"file_history":
 	[
-		"/C/Users/Andy/Development/code/live/map/client/js/geo.js",
 		"/C/Users/Andy/Development/code/live/map/client/js/latlon.js",
+		"/C/Users/Andy/Development/code/live/map/server/map.html",
+		"/C/Users/Andy/Development/code/live/map/client/js/walks.js",
+		"/C/Users/Andy/Development/code/live/map/client/js/build.js",
+		"/C/Users/Andy/Development/code/live/map/client/js/things.js",
+		"/C/Users/Andy/Development/code/live/map/client/js/routes.js",
+		"/C/Users/Andy/Development/code/live/map/client/css/map.css",
+		"/C/Users/Andy/Development/code/live/map/client/js/geo.js",
 		"/C/Users/Andy/Development/code/live/map/client/js/scale.js",
 		"/C/Users/Andy/Development/code/live/map/client/js/googlemap.js",
-		"/C/Users/Andy/Development/code/live/map/server/map.html",
-		"/C/Users/Andy/Development/code/live/map/client/js/routes.js",
-		"/C/Users/Andy/Development/code/live/map/client/js/walks.js",
-		"/C/Users/Andy/Development/code/live/map/client/css/map.css",
 		"/C/Users/Andy/Development/code/live/map/client/js/jsonpath.js",
 		"/C/Users/Andy/Development/code/live/map/client/js/leaflet/leaflet.js",
 		"/C/Users/Andy/Development/code/live/map/client/js/leaflet/leaflet.css",
@@ -333,9 +287,7 @@
 		"/C/Users/Andy/Development/code/temp/py/includes/io.py",
 		"/C/Users/Andy/Development/code/temp/py/app.py",
 		"/C/Users/Andy/Development/code/spotmaps/python/t.py",
-		"/C/Users/Andy/Development/code/temp/py/includes/process.py",
-		"/C/Users/Andy/Development/code/riley/riley.py",
-		"/C/Users/Andy/Development/code/temp/py/temp2.py"
+		"/C/Users/Andy/Development/code/temp/py/includes/process.py"
 	],
 	"find":
 	{
@@ -452,200 +404,31 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "client/js/build.js",
+					"file": "index.js",
 					"settings":
 					{
-						"buffer_size": 20025,
+						"buffer_size": 348,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1812,
-								1815
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 728.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "client/js/things.js",
-					"settings":
-					{
-						"buffer_size": 13483,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								12934,
-								12934
-							]
-						],
-						"settings":
-						{
-							"auto_name": "",
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1917.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "client/css/map.css",
-					"settings":
-					{
-						"buffer_size": 640,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								183,
-								183
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "client/js/routes.js",
-					"settings":
-					{
-						"buffer_size": 7671,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1014,
-								1014
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "client/js/walks.js",
-					"settings":
-					{
-						"buffer_size": 490,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								13,
-								13
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "server/map.html",
-					"settings":
-					{
-						"buffer_size": 1578,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1065,
-								1065
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "client/js/latlon.js",
-					"settings":
-					{
-						"buffer_size": 16196,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								6780,
-								6780
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 2448.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
