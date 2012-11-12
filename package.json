@@ -1,16 +1,18 @@
 {
-  "name": "swatch",
-  "main": "swatch.js",
+  "name": "walkingMap",
+  "main": "walkingMap.js",
 	"version": "0.1",
-  "description": "Creates ASE files from arrays of RGB data.",
+  "description": "A walking map of the areas around the ancient Wantum channel using Leaflet.",
   "keywords": [
-    "swatch",
-    "ase",
-		"rgb"
+    "wantsum",
+    "channel",
+		"walking",
+    "map",
+    "leaflet"
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/andywillis/node_modules.git"
+    "url": "git://github.com/andywillis/walkingMap.git"
   },
   "author": {
     "name": "Andy Willis",
